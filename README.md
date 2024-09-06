@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BogolubDimiyan
-- 👀 I’m interested in Data Science analyse and maschine learning, AI
+- 👀 I’m interested in programming on C++, C#
 - 🌱 I’m currently learning Macschine learning and AI
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me 
