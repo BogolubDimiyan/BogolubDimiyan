@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BogolubDimiyan
+- 👋 Hi, I’m @Danila
 - 👀 I’m interested in programming on C++, C#
 - 🌱 I’m currently learning Macschine learning, programming and AI
 <!---
